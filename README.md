@@ -1,8 +1,13 @@
-- 👋 Olá, eu sou Kennedy Souza, o time por trás do WAVESampler.
+👋 Olá,
+
+Eu sou Kennedy Souza, o time por trás do WAVESampler. Sou de Castanhal-PA, bacharel em Sistemas de informação pela Universidade Federal do Pará (2019).
+
+📫 Você pode me encontrar no [Telegram](https://https://t.me/kennedywaves), no [Facebook](https://https://fb.com/kennedywaves), no [WhatsApp](https://api.whatsapp.com/send?phone=5591984630598&text=E%20ai,%20man!%20Te%20vi%20no%20GitHub!) e também por [email](mailto://kennedy.es.souza@gmail.com)
+
+<p><hr></p>
 
 - 👀 Atualmente estou interessado em desenvolvimento utilizando .NET
 - 🌱 Atualmente estou cursando "Desenvolvimento de APIs RESTFul utilizando .NET Core"
-- 📫 Você pode me encontrar no [Telegram](https://https://t.me/kennedywaves), no [Facebook](https://https://fb.com/kennedywaves), no [WhatsApp](https://api.whatsapp.com/send?phone=5591984630598&text=E%20ai,%20man!%20Te%20vi%20no%20GitHub!) e também por [email](mailto://kennedy.es.souza@gmail.com)
 
 Aqui você encontrará tudo que criei durante meu aprendizado, e espero que ajude outras pessoas.
 
