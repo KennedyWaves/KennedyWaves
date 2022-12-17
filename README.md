@@ -7,7 +7,6 @@ Eu sou Kennedy Souza, o time por trás do WAVESampler. Sou de Castanhal-PA, bach
 <p><hr></p>
 
 - 👀 Atualmente estou interessado em desenvolvimento utilizando .NET
-- 🌱 Atualmente estou cursando "Desenvolvimento de APIs RESTFul utilizando .NET Core"
 
 Aqui você encontrará tudo que criei durante meu aprendizado, e espero que ajude outras pessoas.
 
